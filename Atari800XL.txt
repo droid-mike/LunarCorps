@@ -1,6 +1,6 @@
 100 REM Basic Month 4 : Lunar Corps Atari 1.0
-110 REM original AppleII bt FozzTech
-120 REM Atari Turbo Basic XL 1.5 version By papa_robot
+110 REM original AppleII by FozzTexx
+120 REM Atari Turbo Basic XL 1.5 version by papa_robot
 135 DIM C1$(1),C2$(1),C3$(1),C4$(1),C5$(1),C6$(1),P$(1),T$(2)
 136 DIM S$(5)
 200 REM Clear Screen and setup
